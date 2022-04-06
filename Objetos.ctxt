@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Objetos
+comment1.params=
+comment1.target=void\ verifica()
+comment2.params=
+comment2.target=void\ movimento()
+comment3.params=
+comment3.target=void\ ressaltaNoPinguim()
+comment4.params=
+comment4.target=void\ caiNoMar()
+comment5.params=
+comment5.target=void\ elimina()
+numComments=6
