@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player2
+comment1.params=
+comment1.target=Player2()
+comment10.params=
+comment10.target=void\ baterNasArmadilhas()
+comment11.params=
+comment11.target=void\ baterNasArmadilhas2()
+comment2.params=
+comment2.target=void\ removeEfeitoRede()
+comment3.params=
+comment3.target=void\ removeEfeitoReciclagem()
+comment4.params=
+comment4.target=void\ controlos()
+comment5.params=
+comment5.target=boolean\ tocaNoMar()
+comment6.params=
+comment6.target=void\ removePinguim()
+comment7.params=
+comment7.target=void\ morreu()
+comment8.params=
+comment8.target=void\ localizaPinguim()
+comment9.params=
+comment9.target=void\ act()
+numComments=12
